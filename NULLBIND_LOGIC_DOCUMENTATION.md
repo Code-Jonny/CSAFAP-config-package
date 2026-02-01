@@ -186,7 +186,7 @@ From the FAQ (Q8 and Q12 in README.md):
 According to the README FAQ:
 
 - ✅ **Allowed on MM/Premier:** Yes, uses only legal in-game commands
-- ✅ **Allowed on FaceIt PUGs:** Confirmed by FaceIt Community Manager ([source](https://www.reddit.com/r/FACEITcom/comments/1ea2tgz/comment/leim41n/))
+- ✅ **Allowed on FACEIT PUGs:** Confirmed by FACEIT Community Manager ([source](https://www.reddit.com/r/FACEITcom/comments/1ea2tgz/comment/leim41n/))
 - ❌ **Not allowed in ESL/ESEA:** Prohibited due to alias command restrictions
 
 The nullbind feature will NOT trigger a kick from official servers.
